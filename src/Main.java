@@ -1,8 +1,6 @@
 
 public class Main {
 	
-	public static String nombre = "Daniel";
-	
 	public static void main(String args[]) {
 		
 		Fruteria frut = new Fruteria();
